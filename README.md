@@ -1,3 +1,3 @@
-# Processing/Java projects
+# Processing projects
 
-Some code I wrote for personal projects, research and interactive installations work
+Some code wrote for personal projects, research and interactive installations work
